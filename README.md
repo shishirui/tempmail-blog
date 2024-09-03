@@ -1,6 +1,6 @@
-# TempMail Docs
+# TempMail Blog
 
-Welcome to the official documentation repository for [TempMail.so](https://tempmail.so), a service that provides temporary disposable email addresses. This repository contains all the necessary documentation to help you understand and utilize TempMail.so effectively.
+Welcome to the official blog repository for [TempMail.so](https://tempmail.so), a service that provides temporary disposable email addresses. This repository contains all the necessary documentation to help you understand and utilize TempMail.so effectively.
 
 ## Introduction
 
@@ -22,7 +22,7 @@ To start using TempMail.so, simply visit our website [here](https://tempmail.so)
 For developers looking to integrate TempMail.so into their applications, detailed API documentation is available. Please refer to the API Documentation on our website for complete instructions and code examples.
 
 ## Contributing
-We welcome contributions to improve our documentation. Please fork the repository, make your changes, and submit a pull request.
+We welcome contributions to improve our blog. Please fork the repository, make your changes, and submit a pull request.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
